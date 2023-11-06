@@ -1,0 +1,4 @@
+requests
+pillow
+comet_ml
+pytorch_lightning
